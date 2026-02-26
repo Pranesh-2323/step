@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutocompleteSystem.java/AutocompleteSystem.java.iml" filepath="$PROJECT_DIR$/AutocompleteSystem.java/AutocompleteSystem.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DNSCacheSystem.java/DNSCacheSystem.java.iml" filepath="$PROJECT_DIR$/DNSCacheSystem.java/DNSCacheSystem.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsernameChecker.java/FlashSaleInventory.java/FlashSaleInventory.java.iml" filepath="$PROJECT_DIR$/UsernameChecker.java/FlashSaleInventory.java/FlashSaleInventory.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiLevelCacheSystem.java/MultiLevelCacheSystem.java.iml" filepath="$PROJECT_DIR$/MultiLevelCacheSystem.java/MultiLevelCacheSystem.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLotSystem.java/ParkingLotSystem.java.iml" filepath="$PROJECT_DIR$/ParkingLotSystem.java/ParkingLotSystem.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlagiarismDetector.java/PlagiarismDetector.java.iml" filepath="$PROJECT_DIR$/PlagiarismDetector.java/PlagiarismDetector.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RateLimiterSystem.java/RateLimiterSystem.java.iml" filepath="$PROJECT_DIR$/RateLimiterSystem.java/RateLimiterSystem.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeAnalytics.java/RealTimeAnalytics.java.iml" filepath="$PROJECT_DIR$/RealTimeAnalytics.java/RealTimeAnalytics.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionAnalyzer.java/TransactionAnalyzer.java.iml" filepath="$PROJECT_DIR$/TransactionAnalyzer.java/TransactionAnalyzer.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsernameChecker.java/Username Availability Checker.iml" filepath="$PROJECT_DIR$/UsernameChecker.java/Username Availability Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/step.iml" filepath="$PROJECT_DIR$/.idea/step.iml" />
+    </modules>
+  </component>
+</project>
